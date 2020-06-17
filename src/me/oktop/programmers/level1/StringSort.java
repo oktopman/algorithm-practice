@@ -1,4 +1,4 @@
-package me.oktop.level1;
+package me.oktop.programmers.level1;
 
 import java.util.ArrayList;
 import java.util.Collections;

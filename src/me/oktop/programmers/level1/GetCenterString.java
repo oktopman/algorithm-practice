@@ -1,4 +1,4 @@
-package me.oktop.level1;
+package me.oktop.programmers.level1;
 
 /**
  * Created by hayun on 17/01/2020.

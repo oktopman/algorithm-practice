@@ -1,10 +1,7 @@
-package me.oktop.level1;
-
-import com.sun.xml.internal.ws.policy.privateutil.PolicyUtils;
+package me.oktop.programmers.level1;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Collections;
 import java.util.List;
 
 public class Divisible {
